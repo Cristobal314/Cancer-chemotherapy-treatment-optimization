@@ -5,5 +5,7 @@ In this repository is the research project of  MAT279 - Nonlinear Optimization t
 Members:
 
 Cristóbal Alvarez
+
 Eduardo Carriel
+
 Felipe Perez
